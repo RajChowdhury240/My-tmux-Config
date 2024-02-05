@@ -1,3 +1,7 @@
+#### Preview
+
+![](PoC.png)
+
 Pretty Tmux config
 
 ### Install
@@ -18,6 +22,4 @@ run -b '~/.tmux/plugins/tpm/tpm'
 - Use the tpm install command: prefix + I (default prefix is ctrl+b)
 - so : Crtl + b , then I together press it will install the theme
 
-#### Preview
 
-![](PoC.png)
