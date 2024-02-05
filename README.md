@@ -1,4 +1,4 @@
-#### Preview
+#### Theme 1 - Preview 
 
 ![](PoC.png)
 
@@ -36,3 +36,26 @@ run -b '~/.tmux/plugins/tpm/tpm'
 - so : Crtl + b , then I together press it will install the theme
 
 
+#### Theme 2 - Preview
+![image](https://gist.github.com/assets/30806882/4017cada-dcb7-4aa6-82b1-470f53fba6da)
+
+
+#### Install
+Install Tmux first
+```
+$ brew install tmux
+
+$ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+now onto themeing
+
+```bash
+$ git clone https://github.com/gpakosz/.tmux
+$ cp .tmux/.tmux.conf ~
+```
+now one more step
+```bash
+$ git clone https://github.com/Optixal/tmux-dracula
+$ cp tmux-dracula/.tmux.conf.local ~
+$ sudo reboot
+```
