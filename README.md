@@ -5,7 +5,20 @@
 Pretty Tmux config
 
 ### Install
-Install using tpm If you are a tpm user, you can install the theme and keep up to date by adding the following to your .tmux.conf file:
+MacOs
+```bash
+brew install tmux
+```
+Linux
+```bash
+sudo apt-get install tmux
+```
+Install using tpm 
+```bash
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
+If you are a tpm user, you can install the theme and keep up to date by adding the following to your .tmux.conf file:
 ```
 set -g @plugin 'tmux-plugins/tpm'
 set -g @plugin 'tmux-plugins/tmux-sensible'
