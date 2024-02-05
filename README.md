@@ -37,7 +37,8 @@ run -b '~/.tmux/plugins/tpm/tpm'
 
 
 #### Theme 2 - Preview
-![image](https://gist.github.com/assets/30806882/4017cada-dcb7-4aa6-82b1-470f53fba6da)
+
+![](https://github-production-user-asset-6210df.s3.amazonaws.com/30806882/302259846-4017cada-dcb7-4aa6-82b1-470f53fba6da.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240205T104333Z&X-Amz-Expires=300&X-Amz-Signature=8f3bdb7d9f4a4a6c62428e74e6b23cbcec7195f53dcb534c75bcaa68e7c2c999&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=0)
 
 
 #### Install
