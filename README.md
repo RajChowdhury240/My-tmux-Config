@@ -60,3 +60,15 @@ $ git clone https://github.com/Optixal/tmux-dracula
 $ cp tmux-dracula/.tmux.conf.local ~
 $ sudo reboot
 ```
+
+## NvChad
+if you have any prev nvim config remove em , in Mac
+```
+sudo rm -r ~/.local/share/nvim/
+​```
+#### Install NvChad
+```
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+```
+
+![](https://faizal-ctf.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F68ca7968-174f-4df4-ab04-3d91b871155c%2Fc2bfed8a-9e6f-473e-a6f4-9c7fc5880a73%2FScreenshot_2024-02-06_at_5.24.06_AM.png?table=block&id=0df38f61-9c7e-4086-b78c-d1ca226052a2&spaceId=68ca7968-174f-4df4-ab04-3d91b871155c&width=2000&userId=&cache=v2)
