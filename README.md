@@ -63,7 +63,9 @@ $ sudo reboot
 
 ## NvChad
 if you have any prev nvim config remove em , in Mac
-
+```
+sudo rm -r ~/.local/share/nvim/
+```
 ​
 #### Install NvChad
 
